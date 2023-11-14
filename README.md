@@ -18,5 +18,6 @@
 
 ## :ballot_box_with_check: Main Progress
 #### `Section 1` Ingest the Raw Data
-##### load the raw data into a table to make it available for further processing.
-
+##### Load the raw data into a table to make it available for further processing.
+* Load the raw data from the CSV file and create a table for usage.
+![image](https://github.com/suim-park/Mini-Project-11/assets/143478016/b87f9aed-6b1d-4b20-ac79-32e3518d4773)
