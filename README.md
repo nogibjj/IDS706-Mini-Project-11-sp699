@@ -21,3 +21,9 @@
 ##### Load the raw data into a table to make it available for further processing.
 * Load the raw data from the CSV file and create a table for usage.
 ![image](https://github.com/suim-park/Mini-Project-11/assets/143478016/b87f9aed-6b1d-4b20-ac79-32e3518d4773)
+
+#### `Section 2` Prepare the Raw Data
+##### Transform the raw BaskinRobbins data by adding a new column that contains only the fat grams, excluding trans fat.
+* The prepared dataset includes the new column, 'Fat without Trans (g)'
+  ![image](https://github.com/suim-park/Mini-Project-11/assets/143478016/02e06469-dece-4a8c-ae8a-3687fac90cad) </br>
+  
