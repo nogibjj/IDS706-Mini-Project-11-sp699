@@ -1,14 +1,9 @@
 from pyspark.sql.types import DoubleType, StringType, LongType, StructType, StructField
-from pyspark.sql import SparkSession
 
 # Define variables used in the code below
-file_path = "/databricks-datasets/BaskinRobbins/"
-table_name = "BaskinRobbins"
-checkpoint_path = "/tmp/pipeline_get_started/_checkpoint/BaskinRobbins"
-
-spark = SparkSession.builder \
-    .appName("BaskinRobbinsDataProcessing") \
-    .getOrCreate()
+file_path = "/databricks-datasets/baskin_robbins/"
+table_name = "baskin_robbins"
+checkpoint_path = "/tmp/pipeline_get_started/_checkpoint/baskin_robbins"
 
 schema = StructType(
   [
