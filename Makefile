@@ -6,7 +6,7 @@ format:
 	black *.py
 
 lint:
-	pylint --disable=R,C --ignore-patterns=*.py
+	pylint --disable=R,C --ignore-patterns= *.py
 
 test:
 	python -m pytest -vv --cov=test_main *.py
