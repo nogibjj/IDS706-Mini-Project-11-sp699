@@ -1,4 +1,7 @@
 from pyspark.sql.types import DoubleType, StringType, LongType, StructType, StructField
+from pyspark.sql import SparkSession
+
+spark = SparkSession.builder.appName("YourAppName").getOrCreate()
 
 # Define variables used in the code below
 file_path = "/databricks-datasets/baskin_robbins/"
