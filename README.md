@@ -57,4 +57,5 @@
 #### `Section 7` Schedule the Data Pipeline Job
 ##### Define a schedule for the job that runs the pipeline.
 * The job is scheduled to run at the same time every instance.
+
 ![image](https://github.com/nogibjj/IDS706-Mini-Project-11-sp699/assets/143478016/e7ad3f34-2185-4f52-a743-662b7d8d372c)
