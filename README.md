@@ -1,4 +1,5 @@
-# IDS-706-Data-Engineering :computer: (Still Uploading by 11/14/2023)
+![Data Pipeline](https://github.com/nogibjj/IDS706-Mini-Project-11-sp699/actions/workflows/cicd.yml/badge.svg)
+# IDS-706-Data-Engineering :computer:
 
 ## Mini Project 11 :page_facing_up: 
 
